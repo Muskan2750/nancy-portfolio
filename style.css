@@ -40,7 +40,8 @@ footer {
     margin-top: 20px;
 }
 
-.social-icons a {
+.social-icons a 
+{
     font-size: 30px;
     margin: 0 10px;
     text-decoration: none;
